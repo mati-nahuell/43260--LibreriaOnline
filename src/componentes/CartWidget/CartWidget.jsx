@@ -1,7 +1,7 @@
 import './CartWidget.css'
 
 const CartWidget = () => {
-    const imgCarrito = "https://e7.pngegg.com/pngimages/833/426/png-clipart-shopping-cart-shopping-cart.png";
+    const imgCarrito = "https://cdn-icons-png.flaticon.com/512/107/107831.png?w=360";
     return (
         <div>
             <img className='imgCarrito' src={imgCarrito} alt="carrito de compras" />
