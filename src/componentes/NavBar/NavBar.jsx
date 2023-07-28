@@ -7,7 +7,7 @@ const NavBar = () => {
     <header>
 
       <Link to="/">
-      <h2>Libreria Online</h2>
+      <img src="../img/libreria.jpg" className='imgLibreria' alt="Logo Libreria" />
       </Link>
 
       <nav>
